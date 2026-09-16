@@ -1,0 +1,38 @@
+{
+  "name": "@m2collective/scss-function-unicode",
+  "version": "1.0.0",
+  "description": "A package for integrating functions that enable the creation of Unicode elements.",
+  "keywords": [
+    "m2collective",
+    "scss",
+    "function",
+    "unicode",
+    "style",
+    "front-end"
+  ],
+  "main": "index.scss",
+  "exports": {
+    ".": {
+      "sass": "./index.scss"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "bu0nq",
+    "email": "hello@bu0nq.ru"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m2collective/scss-function-unicode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/m2collective/scss-function-unicode/issues"
+  },
+  "homepage": "https://github.com/m2collective/scss-function-unicode#readme",
+  "publishConfig": {
+    "access": "public"
+  }
+}
